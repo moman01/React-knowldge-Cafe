@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co.com/RcH9QHd/img-1.jpg",
+    "title": "The Art of Learning",
+    "author": "Sophia Carter",
+    "author_img": "https://example.com/images/author1.jpg",
+    "posted_date": "2025-01-20",
+    "reading_time": "5 min read",
+    "hashtags": ["#Education", "#SelfImprovement", "#Learning"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co.com/v3n5N3f/image-5.jpg",
+    "title": "Exploring the Cosmos",
+    "author": "Ethan Roberts",
+    "author_img": "https://example.com/images/author2.jpg",
+    "posted_date": "2025-01-18",
+    "reading_time": "8 min read",
+    "hashtags": ["#Space", "#Science", "#Astronomy"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co.com/P12t4vd/img-2.jpg",
+    "title": "Mastering Minimalism",
+    "author": "Olivia Green",
+    "author_img": "https://example.com/images/author3.jpg",
+    "posted_date": "2025-01-22",
+    "reading_time": "4 min read",
+    "hashtags": ["#Lifestyle", "#Minimalism", "#Productivity"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co.com/YyD1kXm/images-3.jpg",
+    "title": "A Guide to Mindful Living",
+    "author": "Liam Johnson",
+    "author_img": "https://example.com/images/author4.jpg",
+    "posted_date": "2025-01-15",
+    "reading_time": "6 min read",
+    "hashtags": ["#Mindfulness", "#Wellbeing", "#Happiness"]
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co.com/J5hQGgG/image-4.webp",
+    "title": "The Future of AI",
+    "author": "Emma Walker",
+    "author_img": "https://example.com/images/author5.jpg",
+    "posted_date": "2025-01-23",
+    "reading_time": "7 min read",
+    "hashtags": ["#Technology", "#AI", "#Innovation"]
+  }
+]
